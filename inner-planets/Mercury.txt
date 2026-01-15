@@ -1,0 +1,5 @@
+Equator circumference: 15,329km.
+Average distance from Sun: 58 million km.
+Surface temperature: -180°C to 430°C.
+Day length: 59 Earth days.
+Year length: 88 Earth days.
